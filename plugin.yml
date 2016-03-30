@@ -1,0 +1,4 @@
+name: BugsysUpgradeCore
+Author: BugsyFTW
+version: 1.0
+main: me.bugsyftw.upgradecore.UpgradeCore
